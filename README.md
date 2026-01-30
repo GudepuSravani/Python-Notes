@@ -39,7 +39,8 @@ differenes between  complier & interpreter
 < At a time execution          >line by line execution
 < fast                         > slow 
 
-
+# Byte code :
+python is usually called interpreted language,however ,it combines compiling and interpreting when we executed a source code. 
 
 
 
