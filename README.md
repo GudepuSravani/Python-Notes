@@ -11,7 +11,7 @@ git checkout -b ""
 git checkout 
 
 # Python-Notes :Detail Notes
-1> what is coding ?
+1> what is coding ? 
 .coding is a implement list of step by step instrucions that get computers to do what you want to do.
 .coding makes it possible for us to create a computer software, gAMES, apps of website.
 
