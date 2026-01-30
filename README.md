@@ -16,7 +16,12 @@ git checkout
 .coding makes it possible for us to create a computer software, gAMES, apps of website.
 
 2> what is programming ?
-.programming is the process of creating a ser of instructions that tell a computer how to perfform a task.
+.programming is the process of creating a set of instructions that tell a computer how to perform a task.
 .programming can be done using a variety of computer programming language such as javascript,python,c++.
 >High level language : it is programming friendly language.
 >Low level language : it is machine friendly language binary language computer can understand.
+
+3> what is complier ?
+complier are programs that convert source code written in a high level programming language to a lower-level programming language,such as a machine code,for creating an excutable program.
+high level language ===> low level language
+ex: c,c++,c#,java
