@@ -24,4 +24,25 @@ git checkout
 3> what is complier ?
 complier are programs that convert source code written in a high level programming language to a lower-level programming language,such as a machine code,for creating an excutable program.
 high level language ===> low level language
-ex: c,c++,c#,java
+ex: c,c++,c#,java.
+
+# phases of complier :
+>lexical analysis
+>syntax analysis
+>semantic  "
+>intermediate "
+>optimization "
+>code generation  "
+
+differenes between  complier & interpreter
+    complier                      interpreter 
+< At a time execution          >line by line execution
+< fast                         > slow 
+
+
+
+
+
+
+
+
