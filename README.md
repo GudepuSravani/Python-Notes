@@ -42,6 +42,15 @@ differenes between  complier & interpreter
 # Byte code :
 python is usually called interpreted language,however ,it combines compiling and interpreting when we executed a source code. 
 
+# what is python ?
+In Python, dynamic typing means:
+👉 You don’t need to declare the data type of a variable.
+👉 Python automatically decides the type while running the program.
+Python is a high-level, easy-to-learn programming language used to build software, websites, apps, and analyze data.
+
+# python history:
+started in december
+
 
 
 
