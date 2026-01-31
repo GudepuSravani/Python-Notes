@@ -59,6 +59,14 @@ Python comes from BBC's TV  Comedy sketch series.
 -Easy to debug.
 -large standard library.
 
+# Module:
+A module is a set of METHODS  or  FUNCTIONS are ready to be used somewhere else.
+# Package
+A package is a set of MODULES  is called package.
+# Library :
+Alibrary is a set of PACKAGE is called library.
+# Framework :
+mvt,mvc,model,view,template,controll.
 
 
 
