@@ -49,7 +49,8 @@ In Python, dynamic typing means:
 Python is a high-level, easy-to-learn programming language used to build software, websites, apps, and analyze data.
 
 # python history:
-started in december
+started in december 1989 by "Gudio van Rossum" at cwl in Netherland in1991 february 20.
+Python comes from BBC's TV  Comedy sketch series.
 
 
 
