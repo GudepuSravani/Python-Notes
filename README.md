@@ -51,6 +51,13 @@ Python is a high-level, easy-to-learn programming language used to build softwar
 # python history:
 started in december 1989 by "Gudio van Rossum" at cwl in Netherland in1991 february 20.
 Python comes from BBC's TV  Comedy sketch series.
+# Features of python :
+-Free & open source easy to code.
+-easy to Read.
+-object -oriented language.
+-graphical user interface(GUI) programming support HLL.
+-Easy to debug.
+-large standard library.
 
 
 
