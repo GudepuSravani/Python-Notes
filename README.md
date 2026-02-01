@@ -68,6 +68,41 @@ Alibrary is a set of PACKAGE is called library.
 # Framework :
 mvt,mvc,model,view,template,controll.
 
+# python libraries and frameworks: -
+# MACHINE LEARNING :
+  >Numpy
+  >pandas
+  >Matplotlib
+  >sea Born
+  >scipy
+  >seikit learn
+  >keras
+  >pytorch
+  >theano
+  >tensor flow
+# web development :
+* Django
+* Flask
+* cheerypy
+* pyramid
+* web2py
+* turbogears
+* cubic web
+# Data Visualization :
+- Matplotlib
+- seaBorn
+- scipy.org
+- pygal
+# Data modeling :
+Tensor flow 
+pytorch
+keras
+learn
+# DataBase :
+Sql alchemy
+  
+  
+
 
 
 
