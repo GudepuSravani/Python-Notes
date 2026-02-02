@@ -100,6 +100,17 @@ keras
 learn
 # DataBase :
 Sql alchemy
+
+# Variable :
+-Python variable is container which store values.
+-we do not need to declare variable before using them or declare their type.
+-A variable is created the moment we first assign a value it.
+-A python variable is a name given to a memory location.
+-
+EX :
+int a = 10     (wrong)
+    a = 10     (right) dynamically type
+
   
   
 
