@@ -110,6 +110,12 @@ Sql alchemy
 EX :
 int a = 10     (wrong)
     a = 10     (right) dynamically type
+    hari (variable) = 24 (values)
+# Rules for creating variables in python :
+-A variable name must start with a letter or the underscore character.
+-A variable name cannot start with a number.
+-A variable name can only contain alpha-number characters and underscores.(A-Z,0-9,&_)a,b
+-A variable name are case-sensitive(name ,Name are three different variables)
 
   
   
