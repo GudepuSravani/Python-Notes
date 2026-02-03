@@ -116,6 +116,7 @@ int a = 10     (wrong)
 -A variable name cannot start with a number.
 -A variable name can only contain alpha-number characters and underscores.(A-Z,0-9,&_)a,b
 -A variable name are case-sensitive(name ,Name are three different variables)
+-The reserved words (keywords) cannot be used naming the variable.
 
   
   
