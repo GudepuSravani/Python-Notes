@@ -123,7 +123,7 @@ int a = 10     (wrong)
 -keywords define the structure of programs.we can't use keywords to name program entities such as variables,
    classes and function.
 There are 35 keywords .
-Variable cases :-
+# Variable cases :-
 There are 3 types of variable cases :-
 1> camel Case   : sravani (G)oud  should be captial in second word
 2> snake case   : sravani(_)goud  should be between them.
