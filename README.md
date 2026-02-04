@@ -110,6 +110,7 @@ Sql alchemy
 EX :
 int a = 10     (wrong)
     a = 10     (right) dynamically type
+    
     hari (variable) = 24 (values)
 # Rules for creating variables in python :
 -A variable name must start with a letter or the underscore character.
@@ -117,6 +118,13 @@ int a = 10     (wrong)
 -A variable name can only contain alpha-number characters and underscores.(A-Z,0-9,&_)a,b
 -A variable name are case-sensitive(name ,Name are three different variables)
 -The reserved words (keywords) cannot be used naming the variable.
+# python keyword :-
+-python keywords are reserved words.They are used to python interpreters to understand the program.
+-keywords define the structure of programs.we can't use keywords to name program entities such as variables,
+   classes and function.
+   There are 35 keywords .
+
+
 
   
   
