@@ -122,7 +122,12 @@ int a = 10     (wrong)
 -python keywords are reserved words.They are used to python interpreters to understand the program.
 -keywords define the structure of programs.we can't use keywords to name program entities such as variables,
    classes and function.
-   There are 35 keywords .
+There are 35 keywords .
+Variable cases :-
+There are 3 types of variable cases :-
+1> camel Case   : sravani (G)oud  should be captial in second word
+2> snake case   : sravani(_)goud  should be between them.
+3> pascal case  : SravaniGoud     last & first should me captial.
 
 
 
