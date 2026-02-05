@@ -128,6 +128,9 @@ There are 3 types of variable cases :-
 1> camel Case   : sravani (G)oud  should be captial in second word
 2> snake case   : sravani(_)goud  should be between them.
 3> pascal case  : SravaniGoud     last & first should me captial.
+ 
+ control statements there are three types : 
+ conditional statements
 
 
 
