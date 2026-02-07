@@ -1,4 +1,4 @@
-# GIT HUB:
+# GIT HUB COMMANDS :
 git init
 git add .
 git status
