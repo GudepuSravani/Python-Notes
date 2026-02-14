@@ -134,8 +134,6 @@ There are 3 types of variable cases :-
  conditional statements
 
 
-  
-  
 
 
 
