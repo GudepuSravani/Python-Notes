@@ -7,6 +7,7 @@ git remote add origin "Link"
 git commit -m ""
 git push origin main/master
 
+
 git checkout -b ""
 git checkout 
 
@@ -96,7 +97,7 @@ mvt,mvc,model,view,template,controll.
 # Data modeling :
 Tensor flow 
 pytorch
-keras
+keras 
 learn
 # DataBase :
 Sql alchemy
@@ -131,9 +132,6 @@ There are 3 types of variable cases :-
  
  control statements there are three types : 
  conditional statements
-
-
-sravani GOUD
 
 
   
