@@ -136,6 +136,9 @@ There are 3 types of variable cases :-
  it's canoot run.
 
 
+ it will be used in artificial intelligences and maxhine learning.
+
+
 
 
 
