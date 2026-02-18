@@ -132,8 +132,7 @@ There are 3 types of variable cases :-
  
  control statements there are three types : 
  conditional statements
- python it can esay too compile .
- it's canoot run.
+ python it can esay too compiler
 
 
  it will be used in artificial intelligences and maxhine learning.
