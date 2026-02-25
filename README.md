@@ -7,7 +7,6 @@ git remote add origin "Link"
 git commit -m ""
 git push origin main/master
 
-
 git checkout -b ""
 git checkout 
 # Python-Notes :Detail Notes
@@ -138,7 +137,7 @@ GIL = Global Interpreter Lock
 It allows only one thread to execute at a time in CPython.
 
  it will be used in artificial intelligences and maxhine learning.
-hiiii
+helo
 
 
 
