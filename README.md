@@ -136,8 +136,9 @@ There are 3 types of variable cases :-
 GIL = Global Interpreter Lock
 It allows only one thread to execute at a time in CPython.
 
- it will be used in artificial intelligences and maxhine learning.
-hello world  sravani
+ > it will be used in artificial intelligences and maxhine learning.
+hello world.
+> 1%23*9-8+
 
 
 
