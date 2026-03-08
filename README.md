@@ -1,4 +1,4 @@
-# GIT HUB COMMANDS :
+    # GIT HUB COMMANDS :
 git init
 git add .
 git status
@@ -24,7 +24,6 @@ git checkout
 complier are programs that convert source code written in a high level programming language to a lower-level programming language,such as a machine code,for creating an excutable program.
 high level language ===> low level language
 ex: c,c++,c#,java.
-
 # phases of complier :
 >lexical analysis
 >syntax analysis
